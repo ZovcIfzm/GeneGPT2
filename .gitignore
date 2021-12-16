@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# manual
+models/
+embeddings/
+saved_models/
+saved_results/
