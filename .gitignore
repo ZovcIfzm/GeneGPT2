@@ -130,6 +130,4 @@ dmypy.json
 
 # manual
 models/
-embeddings/
 saved_models/
-saved_results/

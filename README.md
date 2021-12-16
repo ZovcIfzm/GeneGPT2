@@ -2,7 +2,7 @@
 
 Simple steps:
 Go to google colab and follow steps there.
-Involves running the cells, and uploading data from this repo (GeneGPT2/GeneGPT2/data) to Colab.
+Involves running the cells, and uploading data from this repo (GeneGPT2/data) to Colab.
 https://colab.research.google.com/drive/1VrCl76AX0mfQiflgbUMz042qG3htV7Vg#scrollTo=ESBxuVVkyJ_L
 
 Specific steps (if you want to get a glimpse of it without going to colab):
