@@ -1,11 +1,13 @@
 # STEPS TO REPRODUCE
 
 ### Simple steps:
+
 Go to google colab and follow steps there.
 Involves running the cells, and uploading data from this repo (GeneGPT2/data) to Colab.
 https://colab.research.google.com/drive/1VrCl76AX0mfQiflgbUMz042qG3htV7Vg#scrollTo=ESBxuVVkyJ_L
 
 ### Specific steps (if you want to get a glimpse of it without going to colab):
+
 Run the first two cells on colab (import packages, mount to google drive). Then follow the instructions shown in the next cell to upload data.
 
 Then run the rest of the cells.
@@ -19,3 +21,12 @@ If you wish to change hyperparameters, you can edit the model configuration cell
 </p>
 
 That's it!
+
+<p align="center">
+  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_1.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_2.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_3.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_4.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_5.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_6.jpg">  
+</p>
