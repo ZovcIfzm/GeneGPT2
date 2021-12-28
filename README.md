@@ -23,10 +23,10 @@ If you wish to change hyperparameters, you can edit the model configuration cell
 That's it!
 
 <p align="center">
-  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_1.jpg">  
-  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_2.jpg">  
-  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_3.jpg">  
-  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_4.jpg">  
-  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_5.jpg">  
-  <img src="https://github.com/ZovcIfzm/GeneBERT/blob/main/readme-imgs/595_final_report_6.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneGPT2/blob/main/readme-imgs/595_final_report_1.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneGPT2/blob/main/readme-imgs/595_final_report_2.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneGPT2/blob/main/readme-imgs/595_final_report_3.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneGPT2/blob/main/readme-imgs/595_final_report_4.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneGPT2/blob/main/readme-imgs/595_final_report_5.jpg">  
+  <img src="https://github.com/ZovcIfzm/GeneGPT2/blob/main/readme-imgs/595_final_report_6.jpg">  
 </p>
